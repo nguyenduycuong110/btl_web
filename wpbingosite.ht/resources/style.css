@@ -559,9 +559,9 @@ h6{
 
 @media (max-width: 1024px){
     .banner-item .content-overlay .overlay-title{
-        font-size:14px;
+        font-size:16px;
         margin-bottom:10px;
-        line-height:17px;
+        line-height:20px;
     }
     .banner-wrapper .uk-grid-collapse{
         margin-left:-15px;
@@ -1571,4 +1571,36 @@ h6{
     border-bottom: 1px solid #e2e2e2;
     margin-bottom: 35px;
     padding-bottom: 35px;
+}
+
+@media(max-width:576px){
+    .footer .copyright .uk-flex{
+        display: block;
+        text-align: center;
+    }
+    .footer .copyright .uk-flex .copyright-text{
+        margin-bottom: 10px;
+    }
+    .footer-menu .uk-width-1-2{
+        width: 100%;
+    }
+    .footer-upper{
+        padding: 50px 0;
+    }
+    .panel-brand{
+        padding: 40px 0;
+    }
+    .heading-1{
+        font-size: 26px;
+    }
+    .panel-head {
+        margin-bottom: 15px;
+    }
+    .panel-background {
+        display: none;
+    }
+    .content-overlay .overlay-title{
+        font-size: 28px;
+        line-height: 36px;
+    }
 }
