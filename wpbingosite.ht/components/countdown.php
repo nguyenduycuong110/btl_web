@@ -4,7 +4,7 @@
             <div class="countdown-text-main">HUNGRY UP !</div>
             <div class="countdown-text-sub">Offer end in: </div>
         </div>
-        <div class="countdown-time" data-countdown="2024-<?php echo rand(2, 5) ?>-15 18:00:00">
+        <div class="countdown-time" data-countdown="2024-<?php echo rand(11, 12) ?>-30 18:00:00">
             <ul class="uk-clearfix uk-flex uk-flex-middle">
                 <li>
                     <div class="countdown-item">

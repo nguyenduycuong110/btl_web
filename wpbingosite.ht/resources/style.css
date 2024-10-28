@@ -1443,7 +1443,7 @@ h6{
 }
 .popup-gallery .swiper-container-thumbs .swiper-slide{
     cursor: pointer;
-    width: 154px !important;
+    width: 154px;
     border: 1px solid rgba(163, 163, 163, 0.25);
     border-radius: 8px;
 }
@@ -1495,7 +1495,6 @@ h6{
 }
 .panel-blog .read-more{
     display: inline-block;
-    margin-top: 20px;
     color: #fff;
     position: relative;
     font-size: 12px;
@@ -1602,5 +1601,33 @@ h6{
     .content-overlay .overlay-title{
         font-size: 28px;
         line-height: 36px;
+    }
+    .panel-relate .uk-grid > *{
+        width: 50%;
+    }
+    .popup-gallery .sp .image {
+        height: auto !important;
+    }
+    .product-title {
+        font-size: 22px !important;
+    }
+    .popup-gallery{
+        margin-bottom: 10px !important;
+    }
+    .product-button-item{
+        width: max-content;
+    }
+    .quantity-wrapper {
+        margin-right: 10px;
+    }
+    .product-button-item:not(:last-child) {
+        margin-right: 10px;
+    }
+    .panel-blog .entry-title{
+        font-size: 26px;
+    }
+    .post-excerpt{
+        font-size: 15px;
+        text-align: justify;
     }
 }

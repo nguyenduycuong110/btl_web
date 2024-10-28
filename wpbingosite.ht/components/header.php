@@ -23,7 +23,7 @@
         <div class="uk-container uk-container-1440">
             <div class="uk-flex uk-flex-between">
                 <div class="logo">
-                    <a href="" title=""><img src="resources/img/logo-1.png.webp" alt=""></a>
+                    <a href="/wpbingosite.ht/home.php" title=""><img src="resources/img/logo-1.png.webp" alt=""></a>
                 </div>
                 <div class="header-search">
                     <form action="" class="uk-form">
@@ -127,10 +127,11 @@
                         <nav class="navigation">
                             <ul class="clear-list uk-clearfix uk-flex main-menu">
                                 <li>
-                                    <a href="" title="">Home <i class="uk-icon" uk-icon="chevron-down"></i></a>
+                                    <a href="/wpbingosite.ht/home.php" title="">Home <i class="uk-icon" uk-icon="chevron-down"></i></a>
                                 </li>
                                 <li><a href="" title="">Shop</a></li>
-                                <li><a href="" title="">Blog</a></li>
+                                <li><a href="/wpbingosite.ht/blog.php" title="">Blog</a></li>
+                                <li><a href="/wpbingosite.ht/product-catalogue.php" title="">Product Catalogue</a></li>
                                 <li><a href="" title="">Page</a></li>
                                 <li><a href="" title="">Vendor</a></li>
                                 <li><a href="" title="">Contact</a></li>

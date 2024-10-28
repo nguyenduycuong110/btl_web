@@ -132,7 +132,7 @@
                 let countDownTime = new Date(countdownValue).getTime()
                 setInterval(function(){
 
-                    let now = new Date().getTime() // --> thời điểm hiện tại
+                    let now = new Date().getTime() 
                     let distance = countDownTime - now
 
                     if(distance > 0){
@@ -198,7 +198,7 @@
 				thumbs: {
 					swiper: {
 						el: popup.querySelector('.swiper-container-thumbs'),
-						slidesPerView: 3,
+						slidesPerView: 4,
 						spaceBetween: 10,
 						slideToClickedSlide: true,
 					}
