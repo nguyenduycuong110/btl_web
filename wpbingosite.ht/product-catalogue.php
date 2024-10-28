@@ -14,7 +14,7 @@
                             <span class="image img-cover"><img src="https://wpbingosite.com/wordpress/digic/wp-content/uploads/2021/05/Untitled-1.jpg" alt=""></span>
                         </div>
                         <div uk-grid class="uk-grid-medium column-sort">
-                            <div class="uk-width-1-4@l product-catalogue-aside">
+                            <div class="uk-width-1-4 product-catalogue-aside">
                                 <?php require_once 'components/aside-category.php' ?>
                             </div>
                             <div class="uk-width-3-4@l product-catalogue-content">

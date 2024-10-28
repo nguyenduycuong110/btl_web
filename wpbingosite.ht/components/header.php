@@ -134,7 +134,7 @@
                                 <li><a href="/wpbingosite.ht/product-catalogue.php" title="">Product Catalogue</a></li>
                                 <li><a href="" title="">Page</a></li>
                                 <li><a href="" title="">Vendor</a></li>
-                                <li><a href="" title="">Contact</a></li>
+                                <li><a href="/wpbingosite.ht/contact.php" title="">Contact</a></li>
                             </ul>
                         </nav>
                     </div>

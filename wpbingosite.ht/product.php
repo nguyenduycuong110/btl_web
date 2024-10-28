@@ -4,7 +4,7 @@
         <?php require_once 'components/head.php' ?>
     </head>
     <body>
-        <?php require_once 'components/header.php' ?>
+        <?php require_once 'components/header.php'?>
         <main id="product" class="product">
             <?php require_once 'components/breadcrumb.php' ?>
             <div class="product-container mb20">

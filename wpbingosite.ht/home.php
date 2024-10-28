@@ -341,7 +341,7 @@
                                                 <div class="product-item uk-position-relative">
                                                     <div class="badge uk-position-absolite t10 l10 fz14 text-white border-radius-50 uk-display-inline-block">-10%</div>
                                                     <div class="thumb uk-position-relative">
-                                                        <a href="" class="image img-scaledown"><img src="resources/img/special-<?php echo $i; ?>.webp" alt=""></a>
+                                                        <a href="" class="image img-scaledown img-zoomin"><img src="resources/img/special-<?php echo $i; ?>.webp" alt=""></a>
                                                         <?php require 'components/toolbox.php'  ?>
                                                     </div>
                                                     <div class="info uk-text-center">
@@ -450,7 +450,7 @@
                                     <div class="product-item st-2 uk-position-relative">
                                         <div class="badge uk-position-absolite t10 l10 fz14 text-white border-radius-50 uk-display-inline-block">-<?php echo rand(10, 50) ?>%</div>
                                         <div class="thumb uk-position-relative">
-                                            <a href="" class="image img-scaledown"><img src="resources/img/special-<?php echo rand(0, 3); ?>.webp" alt=""></a>
+                                            <a href="" class="image img-scaledown img-zoomin"><img src="resources/img/special-<?php echo rand(0, 3); ?>.webp" alt=""></a>
                                             <div class="product-overlay">
                                                 <?php require 'components/toolbox.php'  ?>
                                             </div>
