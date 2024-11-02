@@ -4,7 +4,7 @@
     --black-color: #000;
     --border-radius-50px: 50px;
     --border-radius-50: 50%;
-    --background-btn: #f03333;
+    --background-btn: #f40a0a;
     --fz-14: 14px;
     --swiper-navigation-size: 15px !important;
 }
@@ -13,7 +13,6 @@
     --text-product-color: #216fe6;
     --text-span-color: #a3a3a3;
 }
-
 .form-ip input,
 .form-ip textarea{
     font-family: 'Work Sans', sans-serif !important;
@@ -1271,6 +1270,7 @@ h6{
 @media(max-width: 768px){
     .product-catalogue .product-catalogue-aside{
         order:2;
+        width: 100% !important;
     }
     .product-catalogue .product-catalogue-content{
         order:1
